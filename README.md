@@ -20,7 +20,7 @@ Welcome to my portfolio. Explore real-world projects, including:
 
 ## 🛠️ Tools & Technologies
 
-**Languages**: SQL, Python *(learning)*, R*  
+**Languages**: SQL, Python, R
 **Databases**: Google BigQuery  
 **Visualization**: Tableau 
 **Automation**: Google Apps Script  
