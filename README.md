@@ -8,7 +8,6 @@
 - ⚙️ Automating workflows with **Google Apps Script**
 - 🧠 Currently learning **Python** and **R** for advanced analytics
 
----
 
 ## 📚 Projects
 
@@ -16,7 +15,6 @@ Welcome to my portfolio. Explore real-world projects, including:
 
 - **Cyclist Performance Analysis** – Kaggle-ready analysis using R  
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -26,7 +24,6 @@ Welcome to my portfolio. Explore real-world projects, including:
 **Automation**: Google Apps Script  
 **Spreadsheets**: Google Sheets, Excel
 
----
 
 ## 👔 Connect with Me
 
