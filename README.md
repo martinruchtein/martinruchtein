@@ -1,4 +1,4 @@
-![Martin Ruchtein - Data Analyst](./assets/banner.png)
+![Martin Ruchtein - Data Analyst
 
 # 👋 Hi, I'm Martin
 
