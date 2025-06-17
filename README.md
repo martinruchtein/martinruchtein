@@ -1,3 +1,5 @@
+![Martin Ruchtein - Data Analyst](./assets/banner.png)
+
 # 👋 Hi, I'm Martin
 
 **Data Analyst** with a strong foundation in data analysis, visualization, and reporting. I specialize in transforming data into actionable insights and building impactful dashboards to support strategic decisions.
