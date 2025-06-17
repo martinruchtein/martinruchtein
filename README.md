@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Martin
 
-<!--
-**martinruchtein/martinruchtein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** with a strong foundation in data analysis, visualization, and reporting. I specialize in transforming data into actionable insights and building impactful dashboards to support strategic decisions.
 
-Here are some ideas to get you started:
+- 🔍 Querying and transforming data using **SQL**
+- 📊 Performing analysis and reporting with **Google Sheets** and **Excel**
+- 📈 Building interactive dashboards in **Tableau**
+- ⚙️ Automating workflows with **Google Apps Script**
+- 🧠 Currently learning **Python** and **R** for advanced analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Projects
+
+Welcome to my portfolio. Explore real-world projects, including:
+
+- **Cyclist Performance Analysis** – Kaggle-ready analysis using R  
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Languages**: SQL, Python *(learning)*, R*  
+**Databases**: Google BigQuery  
+**Visualization**: Tableau 
+**Automation**: Google Apps Script  
+**Spreadsheets**: Google Sheets, Excel
+
+---
+
+## 👔 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/martinruchtein/)  
+
