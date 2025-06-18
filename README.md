@@ -13,9 +13,7 @@
 
 ## 📚 Projects
 
-Welcome to my portfolio. Explore real-world projects, including:
-
-- **Cyclist Performance Analysis** – Kaggle-ready analysis using R  
+Welcome to my portfolio. Explore real-world [projects](https://github.com/martinruchtein/portfolio)
 
 
 ## 🛠️ Tools & Technologies
